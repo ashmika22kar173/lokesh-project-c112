@@ -1,0 +1,41 @@
+body{
+background-color: rgb(254, 226, 249);
+
+}
+
+.bob img{
+width: 200px;
+height: 250px;
+
+}
+
+.bob {
+    background-color: aqua;
+    width: 350px;
+    height: 400px;
+    border-radius: 20px;
+    padding-top: 30px;
+    margin-top: 100px;
+    margin-right: 100px;
+}
+
+.bob b {
+    color: rgb(255, 255, 255);
+
+}
+
+.camera {
+    width: 200px;
+    height: 250px;
+    background-color: rgb(255, 255, 0);
+}
+
+.bob3{
+background-color: grey;
+border-radius: 10px;
+height: 100px;
+}
+
+.bob3 h4{
+    font-size: 25px;
+}
